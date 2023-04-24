@@ -1,0 +1,17 @@
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\79\202304245234\test_a_18\test_a_18.Service\bin\Debug\net7.0\test_a_18.Service.deps.json
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\79\202304245234\test_a_18\test_a_18.Service\bin\Debug\net7.0\test_a_18.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\79\202304245234\test_a_18\test_a_18.Service\bin\Debug\net7.0\test_a_18.Service.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\79\202304245234\test_a_18\test_a_18.Service\bin\Debug\net7.0\test_a_18.DataAccess.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\79\202304245234\test_a_18\test_a_18.Service\bin\Debug\net7.0\test_a_18.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\79\202304245234\test_a_18\test_a_18.Service\bin\Debug\net7.0\test_a_18.DTO.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\79\202304245234\test_a_18\test_a_18.Service\bin\Debug\net7.0\test_a_18.DataAccess.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\79\202304245234\test_a_18\test_a_18.Service\obj\Debug\net7.0\test_a_18.Service.csproj.AssemblyReference.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\79\202304245234\test_a_18\test_a_18.Service\obj\Debug\net7.0\test_a_18.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\79\202304245234\test_a_18\test_a_18.Service\obj\Debug\net7.0\test_a_18.Service.AssemblyInfoInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\79\202304245234\test_a_18\test_a_18.Service\obj\Debug\net7.0\test_a_18.Service.AssemblyInfo.cs
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\79\202304245234\test_a_18\test_a_18.Service\obj\Debug\net7.0\test_a_18.Service.csproj.CoreCompileInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\79\202304245234\test_a_18\test_a_18.Service\obj\Debug\net7.0\test_a_18.Service.csproj.CopyComplete
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\79\202304245234\test_a_18\test_a_18.Service\obj\Debug\net7.0\test_a_18.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\79\202304245234\test_a_18\test_a_18.Service\obj\Debug\net7.0\refint\test_a_18.Service.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\79\202304245234\test_a_18\test_a_18.Service\obj\Debug\net7.0\test_a_18.Service.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\79\202304245234\test_a_18\test_a_18.Service\obj\Debug\net7.0\ref\test_a_18.Service.dll
